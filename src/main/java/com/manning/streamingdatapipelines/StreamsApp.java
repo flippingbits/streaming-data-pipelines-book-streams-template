@@ -29,7 +29,7 @@ public class StreamsApp {
             Arrays.asList("/", "/home")
     );
 
-    private static final String DEFAULT_DOMAIN = "excellenttoys.org";
+    private static final String DEFAULT_DOMAIN = "excellenttoys.com";
 
     public static void main(final String[] args) {
         objectMapper = new ObjectMapper();
